@@ -1,0 +1,11 @@
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/ProjOkrsApplication.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/controllers/InitiativeController.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/controllers/KeyResultController.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/controllers/ObjectiveController.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/entities/Initiative.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/entities/KeyResult.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/entities/Objective.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/repositorios/InitiativeRepository.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/repositorios/KeyResultRepository.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/repositorios/ObjectiveRepository.java
+/workspaces/okrService/okr_att (1)/okr/okr/src/main/java/br/dev/rafael/okr/services/OkrService.java
